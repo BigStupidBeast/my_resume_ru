@@ -5,7 +5,7 @@
 Привет, меня зовут Дима. Возьмите меня к себе на работу пожалуйста :bowtie:  
 +7-921-710-11-15
 
-![logo](pictures\POP_2203BW.jpg)
+![logo](https://github.com/BigStupidBeast/my_resume_ru/blob/main/pictures/POP_2203BW.jpg)
 
 У вас открыта вакансия технического писателя.  
 Конечно мне больше импонирует Quality Assurance, но я не боюсь и не стесняюсь
@@ -16,7 +16,7 @@
 
 Плюсы и минусы.  
 Мне 37 - 
-![best_choice](pictures\more_than_30.jpg)
+![best_choice](https://github.com/BigStupidBeast/my_resume_ru/blob/main/pictures/more_than_30.jpg)
 ✅
 
 - Знаю что такое бизнес. Я сам - бизнес. Я работал с подрядчиками и поставщиками.  
