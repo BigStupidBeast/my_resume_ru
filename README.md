@@ -5,6 +5,8 @@
 Привет, меня зовут Дима. Возьмите меня к себе на работу пожалуйста :bowtie:  
 +7-921-710-11-15
 
+![logo](https://github.com/BigStupidBeast/my_resume_ru/blob/main/pictures/POP_2203BW.jpg)
+
 <img src="pictures\POP_2203BW.jpg" width="300" height="450">
 
 ### Хочу в IT
